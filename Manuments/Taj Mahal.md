@@ -267,6 +267,42 @@ Here is a **bullet-note summary of myths** associated with the **Taj Mahal**, id
 
 ---
 
+Here is a **concise and chronological timeline** of the **Taj Mahal**, covering its origin, construction, and historical events:
+
+---
+
+### 📜 **Timeline of the Taj Mahal**
+
+| **Year**         | **Event**                                                                                   |
+| ---------------- | ------------------------------------------------------------------------------------------- |
+| **1631**         | Mumtaz Mahal dies during childbirth (14th child).                                           |
+| **1631 (late)**  | Shah Jahan commissions the Taj Mahal in her memory.                                         |
+| **1632**         | Construction of the Taj Mahal begins.                                                       |
+| **1633 (Feb 6)** | First ceremony held on the second death anniversary of Mumtaz Mahal.                        |
+| **1643**         | Main mausoleum structurally completed; marble screen replaces gold screen around cenotaphs. |
+| **1648**         | Completion of the central tomb and dome.                                                    |
+| **1653**         | Entire Taj Mahal complex completed (gardens, mosque, jawab, main gate).                     |
+| **1652**         | Aurangzeb writes to Shah Jahan about water leakage in the monument.                         |
+| **1658**         | Shah Jahan deposed by Aurangzeb and imprisoned in Agra Fort.                                |
+| **1666**         | Shah Jahan dies; buried beside Mumtaz Mahal in Taj Mahal.                                   |
+| **18th century** | Jats loot the Taj Mahal, stealing chandeliers, gold shield, and silver screen.              |
+| **1830s**        | Rumors of British plans to dismantle the Taj Mahal for auction (false).                     |
+| **1908**         | Lord Curzon completes a major restoration project.                                          |
+| **1942**         | Taj Mahal camouflaged with scaffolding during WWII to prevent air strikes.                  |
+| **1965 & 1971**  | Similar protection measures taken during India–Pakistan wars.                               |
+| **1983**         | Declared a **UNESCO World Heritage Site**.                                                  |
+| **1990s**        | Excavations disprove Black Taj Mahal myth.                                                  |
+| **1997**         | Supreme Court orders environmental protection around Taj (Taj Trapezium Zone).              |
+| **2000–2005**    | Legal claims stating Taj was a Hindu temple are dismissed by courts.                        |
+| **2007**         | Voted as one of the **New 7 Wonders of the World**.                                         |
+| **2010**         | Cracks and tilting reported due to declining Yamuna water levels.                           |
+| **2015**         | Parliament confirms no evidence of Hindu temple claims.                                     |
+| **2018–2020**    | Storm damage reported to finial and parts of the complex.                                   |
+| **2020s**        | Ongoing restorations: mud-pack treatment, marble repairs, tourism upgrades.                 |
+
+---
+
+Would you like this in a **printable PDF or visual timeline chart**?
 
 
 
